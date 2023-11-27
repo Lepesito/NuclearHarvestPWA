@@ -1,5 +1,6 @@
 
 {
+    "start_url": "https://lepesito.github.io/NuclearHarvestPWA/"
     "lang":"es-mx",
     "name":"NuclearHarvest",
     "short_name": "NH APP",
@@ -11,7 +12,7 @@
     "display": "standalone",
     "icons": [{
         "src": "./images/about-abs-image.png",
-        "sizes":"1024x1024"
+        "sizes":"1000x1000"
     }]
 
 }
